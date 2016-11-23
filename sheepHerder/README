@@ -1,0 +1,10 @@
+README
+
+SHEEP HERDER 
+
+Sheep Herder is the story of a lonely shepherd boy that must fight against a gang of vicious wolves to preserve his sheep. 
+The game is set on an isolated hilly grassy plain. The world will have 9 locations, organized in a 3x3 grid. In the starting location, the shepherd will find a Crook item, which will be used as his weapon. Each location will have a specified name, such as "The Stream" or "The Dead Grass," as well as a single enemy wolf (with the exception of the first location.) When the shepherd defeats a wolf, his crook will gain power, allowing him to defeat stronger enemy wolves. 
+
+In theory, the game will involve a timer. The longer the player takes to defeat the wolf pack, the more of his sheep will die. With this implemented, the goal of the game will be to win the game as fast as possible to preserve as many sheep as you can. The timer will also be implemented for wolf battle sequences. A battle sequence will require the player to type a sequence of words before the timer runs out. If the player succeeds in typing the given string in time, the wolf will be defeated and the shepherd will grow stronger. If the player is unsuccessful, more sheep will be killed as a result.
+
+In the chance that implementing a timer proves to be too difficult, wolves at every location will all have varying strengths. The goal of the game will then become to defeat wolves in order of strength to gain enough power to defeat the most powerful wolf. 
